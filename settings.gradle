@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FirebaseApp"
 include ':app'
+include ':mapsexample'
+include ':mediaplayer'
+include ':serviceexample'
+include ':workmanager'
